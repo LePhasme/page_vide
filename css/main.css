@@ -1,0 +1,38 @@
+html {
+  background: #00cc99;
+  color: #444400;
+}
+
+h1, h2, h6, strong {
+  color: #000000;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+#titre2 {
+  font-style: italic;
+  font-size: 24px;
+  font-weight: normal;
+  font-family: monospace;
+}
+
+#fragment {
+  color: white;
+}
+
+strong {
+  font-size: 18px;
+}
+
+p strong {
+  text-decoration: underline;
+}
+
+img {
+  width: 100px;
+  background: white;
+}
+
+.logo {
+  width: 50%;
+}
